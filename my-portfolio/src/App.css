@@ -1,0 +1,37 @@
+
+.App{
+  color: #fff;
+  background: #040404 url("https://images.pexels.com/photos/3473569/pexels-photo-3473569.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1") top right no-repeat;
+  background-size: cover;
+  left: 0;
+  right: 0;
+  top: 0;
+  z-index: -1;
+}
+
+
+a{
+  color: #18d26e;
+}
+a:hover{
+  color: #18d26e;
+  text-decoration: none;
+}
+h1,h2,h3,h4,h5,h6{
+  font-family: "Railewa", sans-serif;
+}
+
+@media (min-width: 1024px) {
+  .App {
+    background-attachment: fixed;
+  }
+}
+
+@media all and (max-width: 1024px){
+  .App{
+    background-attachment: fixed;
+  }
+   .dummy{
+      height: 0rem;
+   }
+}

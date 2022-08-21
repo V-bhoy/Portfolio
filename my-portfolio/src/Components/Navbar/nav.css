@@ -1,0 +1,42 @@
+.navbar{
+    padding: 1rem 3.5rem;
+    background-color: transparent;
+}
+
+
+.navbar-brand{
+    font-size: 1.8rem;
+    color: #18d26e;
+    font-weight: bold;
+}
+.navbar-brand:hover{
+    color: white;
+}
+.navbar-nav{
+    gap: 1.6rem;
+}
+.nav-link{
+    text-transform: uppercase;
+    font-weight: bold;
+    color: rgba(255,255,255,0.8);
+    cursor: pointer;
+    font-size: 0.9rem;
+    font-weight: bold;
+}
+.nav-link:hover{
+    color: white;
+}
+.navbar-toggler-icon{
+    color: white;
+}
+.navbar-nav>li>a.active, .navbar-nav>li>a.active:focus, .nav-link:hover{
+    border-bottom: 1px solid #18d26e;
+}
+
+
+@media all and (max-width: 450px){
+     .navbar{
+         padding: 1rem 2rem;
+         background-color: rgba(0,0,0,0.7);
+     }
+}

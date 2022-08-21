@@ -1,0 +1,32 @@
+
+
+.p-ss{
+    height: 200px;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    background-color: rgba(0,0,0,0.7);
+}
+.info>h3{
+    color: #18d26e;
+}
+.p-btn{
+    width: 100px;
+    font-weight: bold;
+    margin-right: 1rem;
+}
+.p-btn:first-child{
+    background-color: rgba(97, 244, 39, 0.5);
+}
+.p-btn:hover{
+     border: 1px solid #18d26e;
+     color: #18d26e;
+     background-color: transparent;
+}
+@media all and (max-width: 450px){
+    .p-row>div{
+        margin-bottom: 2.5rem;
+    }
+}
