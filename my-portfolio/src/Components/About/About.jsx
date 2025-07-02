@@ -90,7 +90,7 @@ const About = () => {
             <br />
             <br />
             <a
-              href="https://drive.google.com/file/d/1Upl1z_DttmjoBD1CpufwJVPBn5KKtAXD/view?usp=drive_link"
+              href="https://drive.google.com/file/d/15ljUdlgLF5X9H2_NY_ghHvzXBlJzepXL/view?usp=drive_link"
               className="a-btn btn btn-outline-light"
               target="_blank"
               rel="noopener noreferrer"
