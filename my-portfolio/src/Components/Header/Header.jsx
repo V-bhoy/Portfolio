@@ -97,8 +97,6 @@ const Header = () => {
             <a href="https://github.com/V-bhoy" className="github" target="_blank" rel="noopener noreferrer"><Icofont icon="github"></Icofont></a>
             <a href="https://www.facebook.com/vaishali.bhoyar.3551" className="facebook" target="_blank" rel="noopener noreferrer"><Icofont icon="facebook"></Icofont></a>
             <a href="https://www.instagram.com/rach_1303_" className="instagram" target="_blank" rel="noopener noreferrer"><Icofont icon="instagram"></Icofont></a>
-            
-            
         </div>
       
       

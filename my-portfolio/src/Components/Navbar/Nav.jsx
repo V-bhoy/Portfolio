@@ -50,7 +50,7 @@ const Nav = () => {
               <li className="nav-item">
                 <a
                   className="nav-link"
-                  href="https://drive.google.com/file/d/1TJCj9LS1xfUg3OC0XMZk65VMqzMnlvJ-/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1Upl1z_DttmjoBD1CpufwJVPBn5KKtAXD/view?usp=drive_link"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
