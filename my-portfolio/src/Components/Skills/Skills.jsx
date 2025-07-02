@@ -3,16 +3,6 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import "./skills.css";
-import html from '../../Images/html5.webp'
-import css from '../../Images/css3.webp'
-import js from '../../Images/js.webp'
-import react from '../../Images/react.png'
-import redux from '../../Images/redux1.jpg'
-import ui from '../../Images/ui.png'
-import boot from '../../Images/boot1.png'
-import express from '../../Images/express.png'
-import node from '../../Images/node.jpg'
-import mongo from '../../Images/mongodb.jpg'
 
 
 const Skills = () => {
@@ -43,22 +33,6 @@ const Skills = () => {
               <h3 style={{ marginTop: "5px", color: "#18d26e" }}>
                 Technical Skills
               </h3>
-              {/* <div>
-                           <img className="logo" src={html} alt="html5"/>
-                           <img className="logo" src={css} alt="css3"/>
-                           <img className="logo" src={js} style={{borderRadius:"50%", height:"70px", width:"70px"}} alt="js"/>
-                       </div>
-                       <div>
-                           <img className="logo" src={react} style={{borderRadius:"50%", height:"70px", width:"70px"}} alt="react"/>
-                           <img className="logo" src={redux} style={{borderRadius:"50%", height:"70px", width:"70px"}} alt="redux"/>
-                           <img className="logo" src={boot} style={{borderRadius:"50%", height:"70px", width:"70px"}} alt="boot"/>
-                           <img className="logo" src={ui} style={{borderRadius:"50%", height:"70px", width:"70px"}} alt="ui"/>
-                       </div>
-                       <div>
-                           <img className="logo" src={node} style={{borderRadius:"50%", height:"70px", width:"70px"}} alt="nodejs"/>
-                           <img className="logo" src={express} style={{borderRadius:"50%", height:"70px", width:"70px"}} alt="express"/>
-                           <img className="logo" src={mongo} style={{borderRadius:"50%", height:"70px", width:"70px"}} alt="mongodb"/>
-                       </div> */}
               <div>
                 <ul>
                   <li><i className="icofont-rounded-right"></i>HTML, CSS, JS</li>
